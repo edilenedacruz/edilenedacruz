@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋🏼</h1>
+<p align='center'>
+I'm Edilene.
+</p>
 <!--
 **edilenedacruz/edilenedacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
