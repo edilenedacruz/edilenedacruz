@@ -2,9 +2,9 @@
 <p align='center'>
 I'm Edilene.
 </p>
-<!--
-Profile view counter: ![](https://komarev.com/ghpvc/?username=edilenedacruz&color=dc143c)
--->
+
+![](https://komarev.com/ghpvc/?username=edilenedacruz&color=d90166&style=pixel)
+
 <!--
 **edilenedacruz/edilenedacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
