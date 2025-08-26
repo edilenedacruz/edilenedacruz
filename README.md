@@ -3,6 +3,9 @@
 I'm Edilene.
 </p>
 <!--
+Profile view counter: ![](https://komarev.com/ghpvc/?username=edilenedacruz&color=dc143c)
+-->
+<!--
 **edilenedacruz/edilenedacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
